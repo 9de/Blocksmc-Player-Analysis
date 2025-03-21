@@ -30,7 +30,7 @@ This repository contains a comprehensive analysis of player and guild performanc
 - Download SQL queries to recreate or extend the analysis with your own data
 
 ## Server Information
-This analysis is based on data extracted from the **Blocksmc** server between [date range if applicable].
+This analysis is based on data extracted from the **Blocksmc** server between 2024/12/30 - 2025/3/21.
 
 ## Download
 Here is the PublicDB SQLite file: https://gofile.io/d/gykTtj
